@@ -4,6 +4,7 @@ title:  데이터 사이언스 스터디 블로그를 시작합니다.
 date:   2020-08-25 00:00:00 +0800
 image:  02.jpg
 tags:   Resources
+author: Yeeun Lee
 ---
 
 #### 뭐부터 해야 할까나요

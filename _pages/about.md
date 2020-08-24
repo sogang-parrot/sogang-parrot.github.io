@@ -4,10 +4,14 @@ title: About
 permalink: /about/
 image: 01.jpg
 ---
+#### Sogang PARROT
+<strong >[authours]</strong>\
+[Junki Lee](#junki-lee)\
+[Seungjun Lee](#seungjun-lee)\
+[Minho Lee](#minho-lee)\
+[Yeeun Lee](#yeeun-lee)
+##### Junki Lee
+##### Seungjun Lee
+##### Minho Lee
+##### Yeeun Lee
 
-
-## 데이터 사이언스를 공부하고 공유합니다.
->- 이민호
->- 이승준
->- 이예은
->- 이준기

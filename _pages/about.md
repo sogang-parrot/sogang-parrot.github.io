@@ -26,8 +26,11 @@ Oh, I don't have time for this. I have to go and buy a single piece of fruit wit
 
 
 ### Seungjun Lee
+
 ### Minho Lee
+
 ### Yeeun Lee
+
 |학력|내용|비고|
 |------|-------|--------|
 |서강대학교|경영학/빅데이터사이언스연계전공|학사|

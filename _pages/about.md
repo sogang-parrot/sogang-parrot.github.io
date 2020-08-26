@@ -10,19 +10,9 @@ image: 01.jpg
 [Seungjun Lee](#seungjun-lee)\
 [Minho Lee](#minho-lee)\
 [Yeeun Lee](#yeeun-lee)
+
 ### Junki Lee
-<확인용입니다>\
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
 
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
-
-##### Are you crazy? I can't swallow that.
-
-Oh, I don't have time for this. I have to go and buy a single piece of fruit with a coupon and then return it, making people wait behind me while I complain. Meh. So, how 'bout them Knicks? Also Zoidberg.
-
-1. We need rest. The spirit is willing, but the flesh is spongy and bruised.
-2. Fry, we have a crate to deliver.
-3. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
 
 
 ### Seungjun Lee

@@ -1,4 +1,12 @@
-# Back to the basic_#1 (Parameters Initialization)
+---
+layout: post
+title:  Parameter Initialization
+date:   2021-03-07 00:00:00 +0800
+image:  neural-net.jpg
+tags:   Resources
+author: yeeun-lee
+---
+# Parameters Initialization
 
 ## Initializing neural networks
 
@@ -94,7 +102,6 @@ $W\sim N(0, Var(W)), Var(W)=\sqrt\frac{2}{n_{in}}$
 - 분포를 선택하는 기준은 명확한 것이 없으나, He의 논문에서는 "최근의 Deep CNN 모델들은 주로 Gaussian Distribution을 따르는 가중치 초기화 방법을 사용한다"라고 말하고 있다.
 
 ### References
-
 [AI Notes: Initializing neural networks - deeplearning.ai](https://www.deeplearning.ai/ai-notes/initialization/)
 
 [가중치 초기화 (Weight Initialization)](https://reniew.github.io/13/)

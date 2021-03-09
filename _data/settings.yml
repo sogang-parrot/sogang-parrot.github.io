@@ -10,8 +10,8 @@ description: Zolan is modern minimal theme for Jekyll
 author:
   main:
     name: Sogang Parrot
-    say-hello: 안녕하세요, 서강대학교 데이터사이언스 학회 패럿입니다.
-    bio: 
+    say-hello: Sogang Parrot
+    bio: 서강대학교 데이터사이언스 학회
   yeeun:
     name: YeeunLee
     image: 01.jpg

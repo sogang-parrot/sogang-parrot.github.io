@@ -2,7 +2,7 @@
 layout: post
 title:  Parrot Regular Expression session
 date:   2021-03-09 00:00:00 +0800
-image:  neural-net.jpg
+image:  rapunzel.jpg
 tags:   Resources
 author: yeeun-lee
 ---
